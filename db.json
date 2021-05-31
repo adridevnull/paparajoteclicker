@@ -27,6 +27,28 @@
             "number": 0,
             "price": 12000,
             "mejora": 0
+        },
+        {
+            "name": "Fábrica Fini",
+            "perSecond": 1000,
+            "number": 0,
+            "price": 130000,
+            "mejora": 0
+        },
+        {
+            "name": "CajaMurcia",
+            "perSecond": 10000,
+            "number": 0,
+            "price": 1400000,
+            "mejora": 0
+        },
+        {
+            "name": "Semana Santa",
+            "perSecond": 100000,
+            "number": 0,
+            "price": 20000000,
+            "mejora": 0
         }
+        
     ]
 }
